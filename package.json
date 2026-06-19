@@ -1,6 +1,6 @@
 {
   "name": "ministats",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Claude Code status line showing model, reasoning effort, context usage bar, and session cost (with optional caveman badge).",
   "bin": {
     "ministats": "bin/install.js"
