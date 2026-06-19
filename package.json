@@ -1,0 +1,34 @@
+{
+  "name": "ministats",
+  "version": "1.0.0",
+  "description": "Claude Code status line showing model, reasoning effort, context usage bar, and session cost (with optional caveman badge).",
+  "bin": {
+    "ministats": "bin/install.js"
+  },
+  "files": [
+    "bin/install.js",
+    "statusline.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude-code",
+    "statusline",
+    "anthropic",
+    "context",
+    "tokens"
+  ],
+  "author": "Aneesh Tigga",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneeshtigga/ministats.git"
+  },
+  "homepage": "https://github.com/aneeshtigga/ministats#readme",
+  "bugs": {
+    "url": "https://github.com/aneeshtigga/ministats/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
