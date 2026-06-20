@@ -9,6 +9,9 @@
 
 ◉ status at a glance ◉
 </pre>
+
+![npm](https://img.shields.io/npm/dt/ministats)
+
 </div>
 
 A tiny [Claude Code](https://code.claude.com) status line that shows model,
